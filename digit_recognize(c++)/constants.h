@@ -1,0 +1,9 @@
+#pragma once
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define TOTAL_TRAINING_DATA_COUNT 60000
+#define TOTAL_TEST_DATA_COUNT 10000
+const int WIDTH_AND_HEIGHT = 28;
+
+#endif

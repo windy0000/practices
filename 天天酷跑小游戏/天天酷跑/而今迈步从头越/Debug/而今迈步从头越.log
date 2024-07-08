@@ -1,0 +1,22 @@
+﻿  tools.cpp
+D:\.c\而今迈步从头越\而今迈步从头越\tools.cpp(17,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\tools.cpp(175,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\tools.cpp(175,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\tools.cpp(175,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\tools.cpp(175,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  天天酷跑.cpp
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(118,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(119,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(110,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(124,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(130,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(136,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(141,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(168,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(228,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(205,6): warning C4101: “c”: 未引用的局部变量
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(250,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(486,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\.c\而今迈步从头越\而今迈步从头越\天天酷跑.cpp(512,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  而今迈步从头越.vcxproj -> D:\.c\而今迈步从头越\Debug\而今迈步从头越.exe
